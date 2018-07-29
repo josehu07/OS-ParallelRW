@@ -42,7 +42,7 @@
   5. Analyze performance statistics and show.
 - An example of terminal output will be as follows:
 ```
-  > Operating System I Project <张心瑜，胡冠洲>
+  > Operating System I Project <xxx，xxx>
   + Run & Check:
    #1.1 Running unoptimized project...finished.
    #1.2 Checking correctness of results...done.
