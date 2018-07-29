@@ -1,5 +1,5 @@
 # Hello message.
-printf "> Operating System I Project <张心瑜，胡冠洲>\n"
+printf "> Operating System I Project <xxx，xxx>\n"
 
 # Process running through
 printf "+ Run & Check:\n"
