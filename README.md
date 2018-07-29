@@ -30,16 +30,16 @@
 
 ## IMPORTANT Prerequisites
 - Please make sure that the **file tree structure is complete**.
-- Please make sure that the **source archive file *systor17-01.tar*'* is placed under *input* folder**, and is named correctly.
+- Please make sure that the **source archive file *systor17-01.tar* is placed under *input/* folder**, and is named correctly.
 - Execute ```make clean``` in advance, if you are running *raw_project* or *opt_project* by yourself, instead of using *run-project.sh* shell script.
 
 ## HOWTO run our project
-- Execute `./run-project.sh' under `code/'. This shell script will do the following things:
-  1. Clean all compiled binaries, decompressed inputs and generated outputs.
-  2. Run unoptimized project & Check the correctness of results.
-  3. Clear all intermediate files.
-  4. Run optimized project & Check the correctness of results.
-  5. Analyze performance statistics and show.
+- **Execute ```./run-project.sh```under *code/* **. This shell script will do the following things:
+    1. Clean all compiled binaries, decompressed inputs and generated outputs.
+    2. Run unoptimized project & Check the correctness of results.
+    3. Clear all intermediate files.
+    4. Run optimized project & Check the correctness of results.
+    5. Analyze performance statistics and show.
 - An example of terminal output will be as follows:
 ```
   > Operating System I Project <xxx，xxx>
